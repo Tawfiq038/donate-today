@@ -1,0 +1,106 @@
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  padding-top: 80px;
+  font-size: 80px;
+}
+h2 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 40px;
+  padding-top: 12px;
+  color: grey;
+}
+h4 {
+  font-size: 30px;
+}
+h5 {
+  font-size: 20px;
+  font-weight: 400;
+}
+.link-button {
+  text-decoration: none;
+  background-color: orangered;
+  color: white;
+  font-size: 25px;
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+.header {
+  color: white;
+  text-align: center;
+  background-image: url(images/donation13.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 60px;
+  padding-bottom: 180px;
+}
+.donate {
+  text-align: center;
+  margin-top: 150px;
+}
+.flex-container1 {
+  display: flex;
+  justify-content: center;
+}
+.amount-box {
+  height: 160px;
+  width: 180px;
+  margin: 15px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
+#colorful-amount {
+  background-color: rgb(247, 235, 237);
+  border: 3px solid rgb(224, 118, 135);
+}
+.grey-text {
+  color: grey;
+}
+.input-amount {
+  text-align: center;
+  padding: 0 250px;
+  margin: 60px;
+  font-size: 25px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
+.donate-plan {
+  margin-top: 150px;
+  text-align: center;
+}
+.plan-box {
+  text-align: left;
+  height: 300px;
+  width: 400px;
+  margin: 15px;
+  padding: 70px 30px;
+}
+#bg-color1 {
+  background-color: rgb(224, 243, 243);
+}
+#bg-color2 {
+  background-color: rgb(250, 230, 233);
+}
+#bg-color3 {
+  background-color: rgb(255, 241, 223);
+}
+.contribution1 {
+  display: flex;
+  justify-content: center;
+  margin: 150px;
+}
+.contribution1 img {
+  margin-top: 80px;
+  width: 100%;
+}
+.contribute-box {
+  margin: 0 100px;
+}
+#button-margin {
+  margin-bottom: 50px;
+}
